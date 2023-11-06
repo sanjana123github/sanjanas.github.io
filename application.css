@@ -1,0 +1,46 @@
+
+body{
+    background-color: black;
+
+}
+
+
+.main{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border: 2px solid black;
+}
+
+ h1 {
+    color: blue;
+    text-align: center;
+    margin-top: -10px;
+    font-size: 20px;   
+}
+ p{
+   
+    text-align: center;
+    margin-top: -1px;
+}
+
+.nav{
+    background-color:#81aad6 ;
+    width: 993px;
+    height: 80px;
+
+
+}
+.section {
+    width: 989px;
+    background-color: darkblue;
+}   
+.section p {
+    color: white;
+    margin-right: -15px;  
+}
+ 
+
+
+
+
